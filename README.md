@@ -1,20 +1,138 @@
-<h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">I'm currently a second-year student at NIT Trichy, diving into the fascinating world of computer science. My academic journey is in its 3rd semester, and I'm excited about the endless possibilities that lie ahead.</h3>
+# Hi there, I'm Pawan Kumar 👋
 
-- 🌱 I’m currently learning **React,Spring boot,Leaflet,Redux**
+## 🎓 About Me
+I'm a **Software Engineer** and **Full Stack Developer** specializing in building exceptional digital experiences. Currently, I'm building maintainable, scalable, and reliable applications at **[Delta Force](https://delta.nitt.edu/)**, NIT Trichy's official coding and app-dev team.
 
-- 👨‍💻 All of my projects are available at [https://github.com/pawannitt-26?tab=repositories](https://github.com/pawannitt-26?tab=repositories)
+I'm passionate about creating production-ready platforms that serve thousands of users with strong reliability and performance. I love working across the stack—from designing intuitive frontends to architecting robust backend systems.
 
-- 📫 How to reach me **pawan.nitt26@gmail.com**
+🌐 **Portfolio:** [pawan-kumar-lake.vercel.app](https://pawan-kumar-lake.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pawan_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawan_786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Pawan Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/pawan_324005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan_324005" height="30" width="40" /></a>
-</p>
+## 💼 Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" gap="5rem"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🔹 Oracle | Software Engineer Intern
+**May 2025 - July 2025**
+- Built the initial Proof of Concept for **AutoDQ**, an automated data-quality validation system
+- Developed a FastAPI backend, real-time React dashboard, and integrated Llama 3.1 for intelligent testing
+- Improved data reliability by delivering a pluggable service for seamless integration across enterprise systems
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawannitt-26&show_icons=true&locale=en&layout=compact" alt="pawannitt-26" /></p>
+### 🔹 Nagent AI | Software Developer Intern
+**Oct 2024 - Mar 2025**
+- Built AI-driven workflows for ad-video generation, pitch decks, and business plans
+- Developed a scalable frontend using React and Turbo (monorepo) with a robust Node.js + Express backend
+- Deployed and managed cloud infrastructure on GCP while optimizing SQL databases for workflow data
+
+### 🔹 Delta Force | Software Engineer
+**Sept 2023 - Present**
+- Developing web and app solutions for NIT Trichy's official coding and app-dev team
+- Designed and deployed production-ready platforms used across college events, fests, and admin systems
+- Delivered applications serving **10,000+ annual users** with strong reliability and performance
+
+## 🛠️ Tech Stack
+
+### Languages
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### Backend & Cloud
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🎯 [Festember App 24'](https://play.google.com/store/apps/details?id=com.festember.app)
+**Cultural Fest Companion App**
+- Cross-platform Kotlin Multiplatform app with Ktor, Koin, Realm, and Voyager
+- Implemented DAuth authentication and integrated Golang Fest API
+- Scaled to **1500+ users in 4 days** with dynamic CMS-driven content delivery
+- **Tech:** Kotlin Multiplatform, Ktor, Koin, Realm, Voyager
+
+### 🎮 TimeWarp Game
+**Puzzle Adventure Game**
+- Puzzle-adventure game where players solve challenges across pixelated worlds using an in-game code editor
+- Led full-stack development and game design
+- Attracted **300+ players** in a ₹25,000 prize event
+- **Tech:** React, Redux, Phaser.js, Pydiode, Spring Boot (Kotlin), MongoDB, Docker, Nginx
+
+### 🦸 Superhero Call Center
+**Superhero Resource Management Game**
+- Real-time superhero resource management game featuring a 3D interactive city map
+- Implemented real-time crime events, strategic lineup management, and dynamic crime bar system
+- Optimized backend calculations with WebSocket for smooth user interaction
+- **Tech:** Golang, MongoDB, Redis, React, WebSocket, Three.js, Gemini AI
+
+### 🎓 Pragyan App
+**Fest Companion App**
+- Kotlin Multiplatform Android app using Ktor, Voyager, Koin, and Realm
+- Fast, offline-ready fest companion experience
+
+### 🗣️ [Fluentify](https://github.com/pawannitt-26/Fluentify-Frontend)
+**Language Learning Platform**
+- MERN-based language learning platform
+- WebRTC-powered real-time video sessions for immersive speaking practice
+
+### 🗺️ [AcreWise](https://github.com/pawannitt-26/Acrewise)
+**Blockchain RoW Management**
+- Blockchain-powered Right-of-Way management tool
+- Interactive mapping, smart route planning, and transparent land data access
+
+### 🤖 [Insight-AI](https://github.com/pawannitt-26/InsightAI)
+**AI Research Tool**
+- AI-driven research tool enabling automated interviews
+- Real-time chat insights and analytics dashboards
+- **Tech:** React, TypeScript, Zustand, Socket.io
+
+### 🏥 [SurgiAssist-AI](https://github.com/pawannitt-26/SurgiAssist-AI)
+**Surgical AI Assistant**
+- Agentic AI system that analyzes OR audio to auto-update checklists
+- Generates real-time surgical summaries
+- **Tech:** Python, Whisper, FastAPI, React
+
+### 🎓 [Recal Reunion](https://github.com/pawannitt-26/recal-reunion-frontend)
+**Alumni Networking Platform**
+- Alumni networking and memories platform for the NITT Recal community
+- Implemented backend memory management APIs and user-centric home experience
+- **Tech:** React, Node.js, TailwindCSS, Google Auth, Multer
+
+[**View All Projects →**](https://github.com/pawannitt-26?tab=repositories)
+
+## 📊 GitHub Stats
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawannitt-26&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawannitt-26&layout=compact&theme=radical&hide_border=true)
+
+## 📫 Get In Touch
+I'm looking for new opportunities, and my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+
+- 🌐 **Portfolio:** [pawan-kumar-lake.vercel.app](https://pawan-kumar-lake.vercel.app/)
+- 📧 **Email:** [pawan.nitt26@gmail.com](mailto:pawan.nitt26@gmail.com)
+- 💼 **GitHub:** [@pawannitt-26](https://github.com/pawannitt-26)
+- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pawan-kumar-716176256/)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawannitt-26&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  ⭐️ From <a href="https://github.com/pawannitt-26">pawannitt-26</a> | Feel free to explore my repositories and reach out for collaborations!
+</div>
